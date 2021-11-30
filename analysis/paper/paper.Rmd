@@ -1,9 +1,9 @@
 ---
 title: "Title Goes Here"
 author:
-  - Myfirstname Mylastname:
-      email: fl@oneplace.edu
-      institute: [UofO]
+  - Myfirstname Joy:
+      email: doong@oneplace.edu
+      institute: Stanford
       correspondence: true
   - Yourfirstname Yourlastname:
       email: fl@another.edu
